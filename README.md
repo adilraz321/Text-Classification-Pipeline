@@ -4,7 +4,7 @@ This repository contains the complete code for an end-to-end text classification
 
 This project was built to explore the full lifecycle of an NLP project, from raw data ingestion and preprocessing to model training, evaluation, and fine-tuning.
 
-🚀 Features
+# 🚀 Features
 
 Full Preprocessing Pipeline: Implements standard text cleaning techniques, including tokenization, stopword removal, stemming/lemmatization, and TF-IDF vectorization.
 
@@ -18,7 +18,7 @@ Deep Learning Integration: Utilizes Transformer-based models from Hugging Face f
 
 Data Analysis: Includes scripts for exploratory data analysis (EDA) to extract insights and visualize text patterns using Pandas and Matplotlib.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Python
 
@@ -32,7 +32,8 @@ Hugging Face transformers: For loading and fine-tuning Transformer models.
 
 NLTK / spaCy: for tokenization/stemming.
 
-📦 Installation & Usage
+# 📦 Installation & Usage:
+
 To get started with this project, clone the repository and install the required dependencies.
 
 # Clone the repository
@@ -42,7 +43,7 @@ cd Text-Classification-Pipeline
 # Install the required libraries
 pip install -r requirements.txt
 
-Running the Pipeline
+# Running the Pipeline
 Run the preprocessing script to clean the data (assuming preprocess.py):
 
 Bash
