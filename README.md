@@ -1,4 +1,4 @@
-# Text-Classification-Pipeline
+# Opinion Miner- An-Text-Classification-Pipeline
 
 This repository contains the complete code for an end-to-end text classification pipeline designed to perform sentiment analysis on a benchmark dataset of 50,000+ text samples. The project compares the performance of traditional machine learning models against modern, Transformer-based models, achieving upto 90+% accuracy with a fine-tuned Transformer.
 
