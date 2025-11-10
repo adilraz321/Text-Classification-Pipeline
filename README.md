@@ -14,7 +14,7 @@ Logistic Regression
 
 Support Vector Machine (SVM)
 
-Deep Learning Integration: Utilizes Transformer-based models from Hugging Face for fine-tuning, achieving state-of-the-art results (88% accuracy).
+Deep Learning Integration: Utilizes Transformer-based models from Hugging Face for fine-tuning, achieving state-of-the-art results (90% accuracy).
 
 Data Analysis: Includes scripts for exploratory data analysis (EDA) to extract insights and visualize text patterns using Pandas and Matplotlib.
 
@@ -44,12 +44,8 @@ cd Text-Classification-Pipeline
 pip install -r requirements.txt
 
 # Running the Pipeline
-Run the preprocessing script to clean the data (assuming preprocess.py):
+1) Run the preprocessing script to clean the data (assuming preprocess.py):
 
-Bash
+2) Run the model training notebook or script (e.g., train.ipynb or train.py) to train the models and see the evaluation results.
 
-python preprocess.py
-
-Run the model training notebook or script (e.g., train.ipynb or train.py) to train the models and see the evaluation results.
-
-Finally, Run the Streamlit app.
+3) Finally, Run the Streamlit app.
