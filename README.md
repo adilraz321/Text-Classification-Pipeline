@@ -5,6 +5,7 @@ This repository contains the complete code for an end-to-end text classification
 This project was built to explore the full lifecycle of an NLP project, from raw data ingestion and preprocessing to model training, evaluation, and fine-tuning.
 
 🚀 Features
+
 Full Preprocessing Pipeline: Implements standard text cleaning techniques, including tokenization, stopword removal, stemming/lemmatization, and TF-IDF vectorization.
 
 Model Benchmarking: Trains and evaluates several classification models, including:
@@ -44,6 +45,7 @@ Running the Pipeline
 Run the preprocessing script to clean the data (assuming preprocess.py):
 
 Bash
+
 python preprocess.py
 
 Run the model training notebook or script (e.g., train.ipynb or train.py) to train the models and see the evaluation results.
