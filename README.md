@@ -19,6 +19,7 @@ Deep Learning Integration: Utilizes Transformer-based models from Hugging Face f
 Data Analysis: Includes scripts for exploratory data analysis (EDA) to extract insights and visualize text patterns using Pandas and Matplotlib.
 
 🛠️ Tech Stack
+
 Python
 
 Scikit-learn: For traditional ML models (Logistic Regression, SVM) and preprocessing (TF-IDF).
@@ -29,7 +30,7 @@ Matplotlib: For data visualization.
 
 Hugging Face transformers: For loading and fine-tuning Transformer models.
 
-NLTK / spaCy (Assumed for tokenization/stemming)
+NLTK / spaCy: for tokenization/stemming.
 
 📦 Installation & Usage
 To get started with this project, clone the repository and install the required dependencies.
