@@ -44,7 +44,7 @@ cd Text-Classification-Pipeline
 pip install -r requirements.txt
 
 # Running the Pipeline
-1) Run the preprocessing script to clean the data (assuming preprocess.py):
+1) Run the preprocessing script to clean the data.
 
 2) Run the model training notebook or script (e.g., train.ipynb or train.py) to train the models and see the evaluation results.
 
